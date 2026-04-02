@@ -1,3 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SupremeLordCommander&theme=algolia)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=SupremeLordCommander&theme=blood-dark)
+
 ![](https://hit.yhype.me/github/profile?user_id=448743)
-![Anurag's GitHub stats](https://github-readme-stats-joshua-lawrences-projects.vercel.app/api?username=SupremeLordCommander&show_icons=true&theme=radical)`
+
+![SupremeLordCommander GitHub stats](https://github-readme-stats-joshua-lawrences-projects.vercel.app/api?username=SupremeLordCommander&show_icons=true&theme=radical&hide_rank=false&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
